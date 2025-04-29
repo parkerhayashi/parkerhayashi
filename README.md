@@ -11,6 +11,10 @@ My name is Parker and I am studying Computer Science at Duke University.
 [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,sklearn,github)](https://skillicons.dev)
+
+<!--
+# Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkerhayashi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **parkerhayashi/parkerhayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
