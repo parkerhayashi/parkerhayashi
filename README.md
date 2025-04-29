@@ -1,5 +1,7 @@
-## Hi there 👋, I'm Parker
+# Hi there 👋, I'm Parker
 
+## About Me
+My name is Parker and I am studying computer science at Duke University.
 
 <!--
 **parkerhayashi/parkerhayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
