@@ -8,7 +8,7 @@ My name is Parker and I am studying Computer Science at Duke University.
 ###
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,fastapi)](https://skillicons.dev)
 
