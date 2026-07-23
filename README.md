@@ -25,13 +25,6 @@ More on [parkerhayashi.com](https://parkerhayashi.com).
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,fastapi,sklearn)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,c,r,fastapi,sklearn)](https://skillicons.dev)
 
 [![Skills](https://skillicons.dev/icons?i=postgres,supabase,firebase,git,github,vscode)](https://skillicons.dev)
-
----
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=parkerhayashi&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkerhayashi&layout=compact&hide_border=true&hide_title=true" alt="Top languages" />
-</p>
