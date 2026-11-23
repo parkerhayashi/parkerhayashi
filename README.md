@@ -1,6 +1,6 @@
 # Parker Hayashi
 
-CS & Statistical Science at [Duke University](https://duke.edu) (class of 2029). I build software and applied ML: recruitment platforms, survival models, and tools for economic data.
+CS & Statistical Science at [Duke University](https://duke.edu). I build software and applied ML: recruitment platforms, survival models, and tools for economic data.
 
 **Now:** VP of Cyber Operations @ Delta Sigma Pi · Project Manager @ Duke Impact Investing Group  
 **Before:** Software Engineer Intern @ ARGA Investment Management · Computational Biology Student Researcher @ Memorial Sloan Kettering
